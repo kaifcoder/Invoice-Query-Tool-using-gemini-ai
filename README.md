@@ -2,6 +2,8 @@
 
 This repository contains a project that utilizes the Gemini Pro Vision API to extract invoice information from images.
 
+https://github.com/kaifcoder/Invoice-Query-Tool-using-gemini-ai/assets/57701861/788dc11b-6bc1-4f78-b232-ecdc9186e892
+
 ## Project Setup
 
 To set up the project, follow these steps:
